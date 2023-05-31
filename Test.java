@@ -1,5 +1,6 @@
-import java.util.Scanner;
 
+// Java program for demonstrating the Scanner class
+import java.util.Scanner;
 public class Test
 {
     public static int add_No(int a, int b)
