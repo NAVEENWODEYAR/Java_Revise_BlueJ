@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 *.class
+=======
+*.classs
+>>>>>>> 6e2f0853a91eb3cb3a2526f4bc9cc5105010bc7a
